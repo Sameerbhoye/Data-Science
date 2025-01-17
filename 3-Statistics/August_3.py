@@ -2,7 +2,7 @@
 """
 Created on Mon Aug  5 08:22:45 2024
 
-@author: ratho
+@author: samir
 """
 import numpy as np
 from sklearn.datasets import make_classification
