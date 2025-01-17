@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 11 10:35:55 2024
 
-@author: ratho
+@author: samir
 """
 import psycopg2 as pg2
 
