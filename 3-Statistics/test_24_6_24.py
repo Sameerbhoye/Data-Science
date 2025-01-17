@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 24 08:58:07 2024
 
-@author: ratho
+@author: samir
 """
 ''' 1.Write a Python function that takes two lists and 
 returns True if they have at least one common member.'''
